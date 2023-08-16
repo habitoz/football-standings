@@ -1,0 +1,9 @@
+.SeasonsList {
+    padding: 2opx 10px;
+    background-color: var(--primaryColor);
+    color: white;
+}
+
+.SeasonsList:nth-of-type(even) {
+    background-color: #D04278;
+}
