@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'https://api.spacexdata.com/';
+const BASE_URL = 'https://api-football-standings.azharimm.dev';
 
 const getRequest = async (url) => axios.get(BASE_URL + url).then((res) => res.data);
 
