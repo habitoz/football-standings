@@ -1,13 +1,13 @@
 .filterInput {
-    border-radius: 10px;
-    border: 1px solid #2E2E2C;
-    background-color: #2E2E2C;
-    width: 100%;
-    padding: 10px 10px;
-    margin-bottom: 20px;
-    color: #fff;
+  border-radius: 10px;
+  border: 1px solid #2e2e2c;
+  background-color: #2e2e2c;
+  width: 100%;
+  padding: 10px 10px;
+  margin-bottom: 20px;
+  color: #fff;
 }
 
 .filterInput:focus {
-    outline: none;
+  outline: none;
 }

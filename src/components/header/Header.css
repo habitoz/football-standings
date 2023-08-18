@@ -19,7 +19,7 @@
 
 .Nav {
   padding: 10px 1rem;
-  border-bottom: 1px solid #1D1D1D;
+  border-bottom: 1px solid #1d1d1d;
   background-color: var(--primaryColor);
   color: #fff;
   display: flex;
@@ -39,21 +39,25 @@
   gap: 2.563rem;
   list-style: none;
 }
+
 .backButton {
   background-color: transparent;
   color: #fff;
   border: none;
 }
+
 .searchBtn {
   background-color: transparent;
   color: #fff;
   border: none;
   margin-right: 10px;
 }
+
 @media screen and (width <= 520px) {
   .MenuIcon {
     display: block;
   }
+
   .NavItems {
     display: none;
   }

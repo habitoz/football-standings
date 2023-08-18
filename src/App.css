@@ -2,17 +2,19 @@
 
 :root {
   --borderColor: #e8e8e8;
-  --darkColor: #1D1D1D;
-  --primaryColor: #EB4B89;
+  --darkColor: #1d1d1d;
+  --primaryColor: #eb4b89;
   --blueText: #4386bf;
   --grayColor: #e8e8e8;
 }
+
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
   font-family: 'Cabin', sans-serif;
 }
+
 .App {
   width: 100%;
   height: 100%;
