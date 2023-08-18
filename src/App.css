@@ -1,8 +1,4 @@
-@import url('https://fonts.cdnfonts.com/css/gill-sans-std');
-@font-face {
-  font-family: Lato;
-  src: url(https://cdnjs.cloudflare.com/ajax/libs/lato-font/3.0.0/css/lato-font.min.css);
-}
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Lato:wght@700&display=swap');
 
 :root {
   --borderColor: #e8e8e8;
@@ -15,7 +11,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: Lato, sans-serif;
+  font-family: 'Cabin', sans-serif;
 }
 .App {
   width: 100%;
