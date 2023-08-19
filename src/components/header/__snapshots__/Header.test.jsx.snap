@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component snapshot 1`] = `
+Array [
+  <nav
+    className="Nav"
+  >
+    <a
+      aria-current="page"
+      className="Link AppLogo active"
+      href="/"
+      onClick={[Function]}
+    >
+      <img
+        alt=""
+        className="MenuIcon"
+        src="menu.svg"
+      />
+    </a>
+    <p
+      className="AppName"
+    >
+      League
+    </p>
+    <button
+      className="searchBtn"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        className="fa fa-search"
+      />
+    </button>
+    <ul
+      className="NavItems"
+    />
+  </nav>,
+  ",",
+]
+`;
