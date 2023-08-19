@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h2><b>Awesome Books</b></h2>
+  <h2><b>Football Standings</b></h2>
 
 </div>
 
@@ -11,6 +11,7 @@
   - [🛠️ Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -25,9 +26,9 @@
 - [📝 License](#license)
 
 
-# 📖 Awesome Books 
+# 📖 Football Standings <a name="about-project"></a>
 
-This is a simple SPA react application that allows users to browse books by category. 
+**Football Standings** is an application that allows users to browse seasons and standings of football clubs in all leagues. this application is built using react. 
 
 
 ## 🛠️ Built With <a name="built-with"></a>
@@ -63,6 +64,12 @@ This is a simple SPA react application that allows users to browse books by cate
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://football-standing.onrender.com)
+- [Video Presentation](https://www.loom.com/share/92d8caf5abaf487faa02f95208944322)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 💻 Getting Started 
 
 To get a local copy up and running, follow these steps.
@@ -78,9 +85,9 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd Awesome-Book
+  cd football-standings
 
-  git clone https://github.com/habitoz/awesome-book-react.git
+  git clone https://github.com/habitoz/football-standings.git
 
 ```
 
@@ -162,7 +169,7 @@ If you like this project give a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-We would like to thank Microverse community.
+I would like to thank <a href="https://www.microverse.org/">Microverse</a> for providing the guidelines that made this project possible, <a href="https://www.behance.net/sakwadesignstudio">Nelson Sakawa</a> for providing the <a href="https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)">design</a> for the user interface.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
