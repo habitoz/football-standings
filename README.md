@@ -60,7 +60,9 @@
 
 ### Key Features 
 
-- *List books and their ratings*
+- **show football leagues with their respective seasons**
+- **Searh leagues by their names.**
+- **Intuitive UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
