@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Leagues Page snapshot 1`] = `
+Array [
+  <div>
+    <input
+      className="filterInput"
+      onChange={[Function]}
+      type="text"
+    />
+  </div>,
+  <div
+    className="CardContainer"
+    onClick={[Function]}
+    onKeyUp={[Function]}
+    role="navigation"
+  >
+    <div
+      className="LeagueImage"
+      style={
+        Object {
+          "backgroundImage": "url(\\"undefined\\")",
+        }
+      }
+    />
+    <p
+      className="LeagueName"
+    />
+  </div>,
+]
+`;

@@ -19,6 +19,7 @@
     "react/react-in-jsx-scope": "off",
     "react/jsx-curly-brace-presence": "off",
     "import/no-unresolved": "off",
+    "jsx-a11y/no-noninteractive-element-interactions": "off",
     "no-shadow": "off"
   },
   "overrides": [

@@ -35,7 +35,7 @@ export default function Leagues() {
                   name={league.name}
                   slug={league.slug}
                   abbrevation={league.abbr}
-                  image={league.logos.dark}
+                  image={league.logos?.dark}
                 />
                 {' '}
               </li>
