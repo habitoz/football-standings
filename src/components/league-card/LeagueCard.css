@@ -1,0 +1,18 @@
+.CardContainer {
+  width: 100%;
+}
+
+.LeagueImage {
+  min-height: 9rem;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #2e2e2c;
+}
+
+.LeagueName {
+  text-align: center;
+  padding: 7px 5px;
+  background-color: #2e2e2c;
+}
